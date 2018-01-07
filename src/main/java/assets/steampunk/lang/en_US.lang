@@ -1,0 +1,61 @@
+
+#Tabs
+itemGroup.steampunk.materials=Steampunk Materials
+itemGroup.steampunk.farms=Steampunk Farms
+
+#Blocks - Aged Ingots
+tile.blockDecadeIron.name=Decade Iron
+tile.blockCentenniumIron.name=Centennium Iron
+tile.blockMillenniumIron.name=Millennium Iron
+tile.blockDecadeGold.name=Decade Gold
+tile.blockCentenniumGold.name=Centennium Gold
+tile.blockMillenniumGold.name=Millennium Gold
+
+#Items - Base Ingots
+item.ingotSilver.name=Silver Ingot
+item.ingotLead.name=Lead Ingot
+item.ingotTin.name=Tin Ingot
+item.ingotAluminium.name=Aluminium Ingot
+item.ingotBrass.name=Brass Ingot
+item.ingotBronze.name=Bronze Ingot
+item.ingotSteel.name=Steel Ingot
+item.ingotCopper.name=Copper Ingot
+item.ingotZinc.name=Zinc Ingot
+
+#Items - Aged Ingots
+item.ingotDecadeIron.name=Decade Iron Ingot
+item.ingotCentenniumIron.name=Centennium Iron Ingot
+item.ingotMillenniumIron.name=Millennium Iron Ingot
+item.ingotDecadeGold.name=Decade Gold Ingot
+item.ingotCentenniumGold.name=Centennium Gold Ingot
+item.ingotMillenniumGold.name=Millennium Gold Ingot
+item.ingotDecadeSilver.name=Decade Silver Ingot
+item.ingotCentenniumSilver.name=Centennium Silver Ingot
+item.ingotMillenniumSilver.name=Millennium Silver Ingot
+item.ingotDecadeLead.name=Decade Lead Ingot
+item.ingotCentenniumLead.name=Centennium Lead Ingot
+item.ingotMillenniumLead.name=Millennium Lead Ingot
+item.ingotDecadeTin.name=Decade Tin Ingot
+item.ingotCentenniumTin.name=Centennium Tin Ingot
+item.ingotMillenniumTin.name=Millennium Tin Ingot
+item.ingotDecadeAluminium.name=Decade Aluminium Ingot
+item.ingotCentenniumAluminium.name=Centennium Aluminium Ingot
+item.ingotMillenniumAluminium.name=Millennium Aluminium Ingot
+item.ingotDecadeBrass.name=Decade Brass Ingot
+item.ingotCentenniumBrass.name=Centennium Brass Ingot
+item.ingotMillenniumBrass.name=Millennium Brass Ingot
+item.ingotDecadeBronze.name=Decade Bronze Ingot
+item.ingotCentenniumBronze.name=Centennium Bronze Ingot
+item.ingotMillenniumBronze.name=Millennium Bronze Ingot
+item.ingotDecadeSteel.name=Decade Steel Ingot
+item.ingotCentenniumSteel.name=Centennium Steel Ingot
+item.ingotMillenniumSteel.name=Millennium Steel Ingot
+item.ingotDecadeCopper.name=Decade Copper Ingot
+item.ingotCentenniumCopper.name=Centennium Copper Ingot
+item.ingotMillenniumCopper.name=Millennium Copper Ingot
+item.ingotDecadeZinc.name=Decade Zinc Ingot
+item.ingotCentenniumZinc.name=Centennium Zinc Ingot
+item.ingotMillenniumZinc.name=Millennium Zinc Ingot
+
+#Blocks
+tile.witherFarm.name=Wither Farm

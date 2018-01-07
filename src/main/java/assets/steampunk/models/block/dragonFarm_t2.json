@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+		"particle": "steampunk:blocks/dragonFarm_t2_side",
+        "top": "steampunk:blocks/dragonFarm_t2_side",
+		"side": "steampunk:blocks/dragonFarm_t2_side",
+		"front": "steampunk:blocks/dragonFarm_t2_front"
+    }
+}

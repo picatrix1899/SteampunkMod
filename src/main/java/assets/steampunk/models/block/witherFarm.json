@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+		"particle": "steampunk:blocks/witherFarm_side",
+        "top": "steampunk:blocks/witherFarm_side",
+		"side": "steampunk:blocks/witherFarm_side",
+		"front": "steampunk:blocks/witherFarm_front"
+    }
+}

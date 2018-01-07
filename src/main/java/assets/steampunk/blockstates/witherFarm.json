@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "steampunk:witherFarm" },
+        "facing=south": { "model": "steampunk:witherFarm", "y": 180 },
+        "facing=west":  { "model": "steampunk:witherFarm", "y": 270 },
+        "facing=east":  { "model": "steampunk:witherFarm", "y": 90 }
+    }
+}

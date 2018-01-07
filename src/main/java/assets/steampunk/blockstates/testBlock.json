@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "steampunk:testBlock" },
+        "facing=south": { "model": "steampunk:testBlock", "y": 180 },
+        "facing=west":  { "model": "steampunk:testBlock", "y": 270 },
+        "facing=east":  { "model": "steampunk:testBlock", "y": 90 }
+    }
+}

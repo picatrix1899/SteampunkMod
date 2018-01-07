@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+		"particle": "steampunk:blocks/blockTest_sides",
+        "top": "steampunk:blocks/blockTest_top",
+		"side": "steampunk:blocks/blockTest_sides",
+		"front": "steampunk:blocks/blockTest_front"
+    }
+}
